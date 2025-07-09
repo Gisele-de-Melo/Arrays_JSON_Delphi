@@ -12,4 +12,4 @@
 # Blog
 - Content available at:
 - Conteúdo disponível em:
-  https://codedelphi.com/arrays-json-em-delphi/
+  https://www.codedelphi.com/2024/08/arrays-json-em-delphi.html
